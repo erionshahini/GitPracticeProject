@@ -9,6 +9,9 @@ public class Class01 {
 		
 
 		System.out.println("Hello gitHub");
+		
+		int num = 23;
+		String str = "Hello";
 
 
 	}
